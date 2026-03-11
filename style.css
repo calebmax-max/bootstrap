@@ -1,0 +1,14 @@
+#div1:hover{
+    background-color: yellow;
+
+}
+#div1{
+    color: black;
+}
+.class{
+    padding-bottom: 400px;
+}
+#mx:hover{
+    background-color: aquamarine;
+    border-radius: 40px;
+}
